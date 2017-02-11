@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\jaskaran singh\\Desktop\\Hackathon\\androidOcr\\OCRTest\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\shutter.png",
+        "source": "C:\\Users\\jaskaran singh\\Desktop\\Hackathon\\androidOcr\\OCRTest\\src\\main\\res\\drawable-mdpi\\shutter.png"
+    },
+    {
+        "merged": "C:\\Users\\jaskaran singh\\Desktop\\Hackathon\\androidOcr\\OCRTest\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\shutter_pressed.png",
+        "source": "C:\\Users\\jaskaran singh\\Desktop\\Hackathon\\androidOcr\\OCRTest\\src\\main\\res\\drawable-mdpi\\shutter_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\jaskaran singh\\Desktop\\Hackathon\\androidOcr\\OCRTest\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\background.png",
+        "source": "C:\\Users\\jaskaran singh\\Desktop\\Hackathon\\androidOcr\\OCRTest\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\jaskaran singh\\Desktop\\Hackathon\\androidOcr\\OCRTest\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\background_pressed.png",
+        "source": "C:\\Users\\jaskaran singh\\Desktop\\Hackathon\\androidOcr\\OCRTest\\src\\main\\res\\drawable-mdpi\\background_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\jaskaran singh\\Desktop\\Hackathon\\androidOcr\\OCRTest\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jaskaran singh\\Desktop\\Hackathon\\androidOcr\\OCRTest\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

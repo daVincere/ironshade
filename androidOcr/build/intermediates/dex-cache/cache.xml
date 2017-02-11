@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jaskaran singh\Desktop\Hackathon\androidOcr\OCRTest\libs\jtar-1.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6ff62805312c9384c2f4cc21a6367b74fd2bbd7">
+        <dex dex="C:\Users\jaskaran singh\Desktop\Hackathon\androidOcr\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\2\jtar-1.0.4_ab7459944886b3963e5f10e2c331c35291887a4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jaskaran singh\Desktop\Hackathon\androidOcr\OCRTest\build\intermediates\exploded-aar\com.rmtheis\tess-two\6.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27377d2be96cab8211f228b424f221f34a0fa5bc">
+        <dex dex="C:\Users\jaskaran singh\Desktop\Hackathon\androidOcr\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\10\com.rmtheis-tess-two-6.0.4_7f990067fe3699bb5e0697a6195de778c2b23951\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jaskaran singh\Desktop\Hackathon\androidOcr\OCRTest\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="84dbe113a7ba2dc40574d390236e94be18345b0c">
+        <dex dex="C:\Users\jaskaran singh\Desktop\Hackathon\androidOcr\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d12e2e9f96dcbc41061e2a035ea3239d20b23a8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jaskaran singh\Desktop\Hackathon\androidOcr\OCRTest\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="afcec39aee33356d93e699d5aaaafea9f64662bf">
+        <dex dex="C:\Users\jaskaran singh\Desktop\Hackathon\androidOcr\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_34e2590f7b17d40d4b449679cfa3a219a650f691\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jaskaran singh\Desktop\Hackathon\androidOcr\OCRTest\libs\google-api-translate-java-0.98-mod2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2eda6905f8b719be023772e5c738d93c6b77210b">
+        <dex dex="C:\Users\jaskaran singh\Desktop\Hackathon\androidOcr\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-translate-java-0.98-mod2_2da1ccac63c7cd96c4081c5aba3dc537791eb4b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jaskaran singh\Desktop\Hackathon\androidOcr\OCRTest\libs\microsoft-translator-java-api-0.6-mod.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="176df3274c901602fe2b6c345326a6990be557b9">
+        <dex dex="C:\Users\jaskaran singh\Desktop\Hackathon\androidOcr\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\2\microsoft-translator-java-api-0.6-mod_dd700c93797e374efe2eb60be3737fcb6b69ec32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jaskaran singh\Desktop\Hackathon\androidOcr\OCRTest\libs\json_simple-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="C:\Users\jaskaran singh\Desktop\Hackathon\androidOcr\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\2\json_simple-1.1_7a838cb37c85b6eb3c9274cdd3aded8f9324f0fc\classes.dex" />
+    </item>
+
+</items>
